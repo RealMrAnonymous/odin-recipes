@@ -1,2 +1,3 @@
 # odin-recipes
-The assignment on creating a very simple recipes page
+
+A very simple page that contains a few recipes stolen from [Allrecipes](https://www.allrecipes.com).
